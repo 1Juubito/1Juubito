@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://via.placeholder.com/250x100.png?text=Ol%C3%A1+Allan+%F0%9F%91%8B" alt="Olá Allan! 👋" width="250"/>
-</p>
 
 # Bem-vindo ao meu QG Tech-Gamer! 🚀
 
