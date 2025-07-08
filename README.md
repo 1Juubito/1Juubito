@@ -14,7 +14,7 @@ Sou Allan, um entusiasta que vive entre o código e o controle. Minha missão? F
 🎮 **No Tempo Livre:** Ah, aí é a hora do controle na mão! Sou gamer de carteirinha, maratonista inveterado de séries e animes. Um bom roteiro e uma gameplay intensa são meu combo ideal para relaxar (ou para uma nova missão, claro!).
 
 ## Minhas Ferramentas de Batalha
-As linguagens e tecnologias que me acompanham nessa jornada digital:
+As linguagens que me acompanham nessa jornada digital:
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
