@@ -5,7 +5,7 @@
 # Olá 👋
 
 ## Sobre Mim
-🔭 Sou Allan, sou um entusiasta da tecnologia. Atualmente, estou no universo da [Análise e Desenvolvimento de Sistemas](https://www.uninter.com/graduacao-a-distancia/analise-e-desenvolvimento-de-sistemas/) pela [Uninter](https://www.uninter.com/), desbravando os códigos e a lógica por trás dos sistemas.
+🔭 Sou Allan, sou um entusiasta da tecnologia. Atualmente, estou no universo da [Análise e Desenvolvimento de Sistemas](https://www.uninter.com/graduacao/a-distancia/tecnologia-em-analise-e-desenvolvimento-de-sistemas-2/) pela [Uninter](https://www.uninter.com/), desbravando os códigos e a lógica por trás dos sistemas.
 
 🖥️ Como Técnico em Informática, trabalho na área de T.I. em um hospital aqui em Paranaguá - PR, Brazil, garantindo que tudo funcione sem bugs!
 
