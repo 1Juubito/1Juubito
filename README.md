@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://i.gifer.com/3BBS.gif" alt="Sua imagem" width="400"/>
 </p>
+
 ## Bem-vindo ao meu QG Tech-Gamer! 🚀
 
 ## Sobre Mim (e o que eu faço)
