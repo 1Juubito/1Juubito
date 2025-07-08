@@ -2,7 +2,7 @@
   <img src="https://i.gifer.com/3BBS.gif" alt="Sua imagem" width="400"/>
 </p>
 
-## Bem-vindo ao meu QG Tech-Gamer! 🚀
+## Bem-vindo ao meu espaço Geek-Tech! 🚀
 
 ## Sobre Mim (e o que eu faço)
 Sou Allan, um entusiasta que vive entre o código e o controle. Minha missão? Fazer a tecnologia funcionar, seja no hospital ou nos mundos virtuais!
