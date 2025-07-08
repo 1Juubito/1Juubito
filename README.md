@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/127093730?v=4" alt="Sua imagem" width="200"/>
-</p>
 
 # Olá 👋
 
