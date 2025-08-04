@@ -22,6 +22,7 @@ As linguagens que me acompanham nessa jornada digital:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Cypher](https://img.shields.io/badge/Cypher-000000?style=for-the-badge&logo=Neo4j&logoColor=white)
 
 ## Jornada Profissional
 ### 🏥 Técnico em T.I. @ Hospital Regional do Litoral
