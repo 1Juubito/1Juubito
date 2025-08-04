@@ -46,8 +46,8 @@ Curioso sobre minha jornada de código por aqui? Dá uma olhada nos números e n
 ## Conecte-se Comigo
 Vamos trocar uma ideia, falar sobre tecnologia, games, animes ou a vida em T.I.!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allan-crissanto-908663305/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/1Juubito)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/allan-crissanto-908663305/)
+[![Github](https://skillicons.dev/icons?i=github)](https://github.com/1Juubito)
 
 ---
 <p align="center">Coded with 💖 by Allan, debugged by a cat... probably. 😉</p>
