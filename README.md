@@ -14,15 +14,12 @@ Sou Allan, um entusiasta que vive entre o código e o controle. Minha missão? F
 🎮 **No Tempo Livre:** Ah, aí é a hora do controle na mão! Sou gamer de carteirinha, maratonista inveterado de séries e animes. Um bom roteiro e uma gameplay intensa são meu combo ideal para relaxar (ou para uma nova missão, claro!).
 
 ## Minhas Ferramentas de Batalha
-As linguagens que me acompanham nessa jornada digital:
+As linguagens e ferramentas que me acompanham nessa jornada digital:
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Cypher](https://img.shields.io/badge/Cypher-000000?style=for-the-badge&logo=Neo4j&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,java,kotlin,vscode,androidstudio,mysql,nodejs,&theme=light)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=docker,dynamodb,mongodb,eclipse,figma,notion,kali,mint,github&theme=light)](https://skillicons.dev)
+
 
 ## Jornada Profissional
 ### 🏥 Técnico em T.I. @ Hospital Regional do Litoral
