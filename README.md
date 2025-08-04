@@ -11,7 +11,7 @@ Sou Allan, um entusiasta que vive entre o código e o controle. Minha missão? F
 
 🎓 **Na Faculdade:** Troco o teclado do trabalho pelo da faculdade, mergulhando fundo na [Análise e Desenvolvimento de Sistemas](https://www.uninter.com/graduacao/a-distancia/tecnologia-em-analise-e-desenvolvimento-de-sistemas-2/) pela [Uninter](https://www.uninter.com/). Sempre em busca de novos conhecimentos e desafios.
 
-🎮 **No Tempo Livre:** Ah, aí é a hora do controle na mão! Sou gamer de carteirinha, maratonista inveterado de séries e animes. Um bom roteiro e uma gameplay intensa são meu combo ideal para relaxar (ou para uma nova missão, claro!).
+🎮 **No Tempo Livre:** Ah, aí é a hora do controle na mão! Sou [gamer](https://steamcommunity.com/id/allancrisanto/) de carteirinha, [maratonista](https://app.tvtime.com/user/1788620) inveterado de séries e animes. Um bom roteiro e uma gameplay intensa são meu combo ideal para relaxar (ou para uma nova missão, claro!).
 
 ## Minhas Ferramentas de Batalha
 As linguagens e ferramentas que me acompanham nessa jornada digital:
