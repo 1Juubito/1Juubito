@@ -46,7 +46,7 @@ Curioso sobre minha jornada de código por aqui? Dá uma olhada nos números e n
 ## Conecte-se Comigo
 Vamos trocar uma ideia, falar sobre tecnologia, games, animes ou a vida em T.I.!
 
-[![Portfólio](https://skillicons.dev/icons?i=htmx)](https://allan-portfolio-lac.vercel.app/)
+[![Portfólio](https://skillicons.dev/icons?i=htmx)](https://www.bugado.dev/)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/allan-crisanto-908663305/)
 [![Github](https://skillicons.dev/icons?i=github)](https://github.com/1Juubito)
 
