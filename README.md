@@ -9,7 +9,7 @@ Sou Allan, um entusiasta que vive entre o código e o controle. Minha missão? F
 
 🖥️ **No Mundo Corporativo:** Atuo como Técnico em Informática no Hospital Regional do Litoral em Paranaguá - PR. Minha paixão é garantir que a T.I. seja a cura para os problemas, e não a dor de cabeça. Se tem bug, eu caço!
 
-🎓 **Na Faculdade:** Troco o teclado do trabalho pelo da faculdade, mergulhando fundo na [Análise e Desenvolvimento de Sistemas](https://www.uninter.com/graduacao/a-distancia/tecnologia-em-analise-e-desenvolvimento-de-sistemas-2/) pela [Uninter](https://www.uninter.com/). Sempre em busca de novos conhecimentos e desafios.
+🎓 **Na Faculdade:** Troco o teclado do trabalho pelo da faculdade, mergulhando fundo na [Análise e Desenvolvimento de Sistemas]([https://www.uninter.com/graduacao/a-distancia/tecnologia-em-analise-e-desenvolvimento-de-sistemas-2/](https://www.uninter.com/graduacao/a-distancia/tecnologia-em-analise-e-desenvolvimento-de-sistemas/)) pela [Uninter](https://www.uninter.com/). Sempre em busca de novos conhecimentos e desafios.
 
 🎮 **No Tempo Livre:** Ah, aí é a hora do controle na mão! Sou [gamer](https://steamcommunity.com/id/allancrisanto/) de carteirinha, [maratonista](https://app.tvtime.com/user/1788620) inveterado de séries e animes. Um bom roteiro e uma gameplay intensa são meu combo ideal para relaxar (ou para uma nova missão, claro!).
 
