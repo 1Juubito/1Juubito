@@ -16,9 +16,9 @@ Sou Allan, um entusiasta que vive entre o código e o controle. Minha missão? F
 ## Minhas Ferramentas de Batalha
 As linguagens e ferramentas que me acompanham nessa jornada digital:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,java,kotlin,vscode,androidstudio,mysql,nodejs,jquery,spring,linux,&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,java,kotlin,vscode,androidstudio,mysql,nodejs,jquery,spring,&theme=light)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=git,docker,dynamodb,mongodb,eclipse,anaconda,maven,postman,figma,notion,kali,mint,github&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,docker,dynamodb,mongodb,eclipse,anaconda,maven,postman,figma,notion,linux,github&theme=light)](https://skillicons.dev)
 
 
 ## Jornada Profissional
