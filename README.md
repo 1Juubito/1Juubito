@@ -22,7 +22,7 @@ As linguagens e ferramentas que me acompanham nessa jornada digital:
 
 
 ## Jornada Profissional
-### 🏥 Técnico em T.I. @ Hospital Regional do Litoral
+### 🏥 Técnico de T.I. @ Hospital Regional do Litoral
 * **Período:** 05/2023 - Atualmente
 * **Principais Contribuições:**
     * Atuação proativa no suporte e manutenção da infraestrutura de Tecnologia da Informação.
