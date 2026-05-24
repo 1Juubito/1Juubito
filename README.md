@@ -7,7 +7,7 @@
 ## Sobre Mim (e o que eu faço)
 Sou Allan, um entusiasta que vive entre o código e o controle. Minha missão? Fazer a tecnologia funcionar, seja no hospital ou nos mundos virtuais!
 
-🖥️ **No Mundo Corporativo:** Atuo como Técnico em Informática no Hospital Regional do Litoral em Paranaguá - PR. Minha paixão é garantir que a T.I. seja a cura para os problemas, e não a dor de cabeça. Se tem bug, eu caço!
+🖥️ **No Mundo Corporativo:** Atuo como Técnico de TI no Hospital Regional do Litoral em Paranaguá - PR. Minha paixão é garantir que a TI seja a cura para os problemas, e não a dor de cabeça. Se tem bug, eu caço!
 
 🎓 **Na Faculdade:** Troco o teclado do trabalho pelo da faculdade, mergulhando fundo na [Análise e Desenvolvimento de Sistemas](https://www.uninter.com/graduacao/a-distancia/tecnologia-em-analise-e-desenvolvimento-de-sistemas/) pela Uninter. Sempre em busca de novos conhecimentos e desafios.
 
@@ -22,7 +22,7 @@ As linguagens e ferramentas que me acompanham nessa jornada digital:
 
 
 ## Jornada Profissional
-### 🏥 Técnico de T.I. @ Hospital Regional do Litoral
+### 🏥 Técnico de TI @ Hospital Regional do Litoral
 * **Período:** 05/2023 - Atualmente
 * **Principais Contribuições:**
     * Atuação proativa no suporte e manutenção da infraestrutura de Tecnologia da Informação.
