@@ -7,11 +7,11 @@
 ## Sobre Mim (e o que eu faço)
 Sou Allan, um entusiasta que vive entre o código, o terminal Linux e o controle de videogame. Minha missão? Fazer a tecnologia funcionar sob pressão, seja na infraestrutura de um hospital ou desbravando falhas em sistemas.
 
-🖥️ **No Mundo Corporativo:** Atuo como Técnico de TI lidando com infraestrutura de missão crítica na área hospitalar. Minha paixão é garantir que a rede seja a cura para os problemas, e não a dor de cabeça. Apago incêndios de hardware, crimpo cabos e garanto que os sistemas vitais nunca parem.
+🖥️ **No Mundo Corporativo:** Atuo como Técnico de TI na área hospitalar. Meu trabalho é garantir que o caos não se instaure e que o hardware colabore quando as pessoas mais precisam.
 
-🎓 **Na Faculdade:** Oficialmente **Graduado em Análise e Desenvolvimento de Sistemas** pela Uninter! Agora, troquei os simuladores acadêmicos pelo mundo real da Cibersegurança: sou pós-graduando em **Cibersegurança Ofensiva (Red Team)** pela FIAP. Estudando táticas de invasão para aprender a construir as melhores defesas.
+🎓 **Na Faculdade:** Oficialmente **Graduado em Análise e Desenvolvimento de Sistemas** pela Uninter! atualmente dedico minha evolução profissional à Segurança da Informação. Sou pós-graduando em **Cibersegurança Ofensiva (Red Team)** pela FIAP. Estudando táticas de invasão para aprender a construir as melhores defesas.
 
-🎮 **No Tempo Livre:** O controle assume o comando. Sou [gamer](https://steamcommunity.com/id/allancrisanto/) de carteirinha, [maratonista](https://app.tvtime.com/user/1788620) inveterado de séries e animes. Um bom roteiro, uma imersão no ecossistema Galaxy e uma gameplay intensa formam meu combo perfeito para relaxar (ou para uma nova missão).
+🎮 **No Tempo Livre:** O controle assume o comando. Sou [gamer](https://steamcommunity.com/id/allancrisanto/) de carteirinha, [maratonista](https://app.tvtime.com/user/1788620) inveterado de séries e animes. Um bom roteiro, uma imersão no ecossistema Galaxy e uma gameplay intensa formam meu combo perfeito para relaxar.
 
 ## Minhas Ferramentas de Batalha
 As linguagens, sistemas e ferramentas que me acompanham nessa jornada digital e ofensiva:
