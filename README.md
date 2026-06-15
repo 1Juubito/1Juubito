@@ -125,9 +125,7 @@ Além dos scripts (Python é meu xodó ❤️), o que me move no dia a dia:
 
 [![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=1Juubito&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=C9D1D9)](https://github.com/1Juubito)
 
-[![Gráfico de Atividade](https://github-readme-activity-graph.vercel.app/graph?username=1Juubito&bg_color=0D1117&color=00FF9C&line=00FF9C&point=FFFFFF&area=true&area_color=00FF9C&hide_border=true&custom_title=Gr%C3%A1fico%20de%20Atividade)](https://github.com/1Juubito)
 
-[![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=1Juubito&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br/>
 
