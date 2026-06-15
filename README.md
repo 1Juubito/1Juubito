@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=FF0000&center=true&vCenter=true&width=650&lines=Ol%C3%A1!+Eu+sou+o+Allan+%F0%9F%91%8B;Graduado+em+ADS+%7C+Red+Team+em+forma%C3%A7%C3%A3o)](https://git.io/typing-svg)
 
-<samp>git push de dia, nmap -sV de madrugada · da programação à cibersegurança ofensiva.</samp>
+<samp><kbd>git push</kbd> de dia, <kbd>nmap -sV</kbd> de madrugada  · da programação à cibersegurança ofensiva.</samp>
 
 <br/>
 
@@ -15,7 +15,7 @@
 
 ## 👨‍💻 Sobre Mim
 
-Sou o **Allan** — um entusiasta que vive no ponto de encontro entre o código, o terminal Linux e o controle de videogame. Minha missão? Fazer a tecnologia funcionar sob pressão, seja segurando a infraestrutura de um hospital ou desbravando falhas em sistemas.
+Sou o **Allan** — desenvolvedor e pós-graduando em cibersegurança. Vivo no ecossistema onde a arquitetura de software, o Linux e as táticas de Red Team se encontram. Movido pelo desafio de fazer a tecnologia rodar com resiliência, atuo desde a sustentação de infraestruturas hospitalares até a codificação de soluções e exploração de falhas em redes.
 
 ```python
 class Allan:
@@ -23,18 +23,21 @@ class Allan:
         self.cargo     = "Técnico de TI · Infraestrutura Hospitalar"
         self.formacao  = "Graduado em ADS (Uninter)"
         self.foco      = "Pós em Cibersegurança Ofensiva — Red Team (FIAP)"
-        self.linguagem = "Python ❤️"
-        self.combo     = ["bom roteiro", "ecossistema Galaxy", "gameplay intensa"]
+        self.arsenal   = ["VSCode", "Kali Linux", "Python", "Metasploit", "Nmap", "Wireshark"]
+        self.setup     = "Ryzen 7 7800X3D + RTX 5070 (para rodar nmap, claro)"
 
     def missao(self):
         return "Estudar o ataque para construir a melhor defesa."
 ```
 
-🏥 **No mundo corporativo** — garanto que o caos não se instaure e que o hardware colabore exatamente quando as pessoas mais precisam.
+💻 **Na IDE** — Desenvolvendo projetos e criando scripts em Python. Acredito que a melhor base para a segurança é saber exatamente como o software é construído por baixo dos panos.
 
-🎯 **Na evolução profissional** — mergulhado em táticas de invasão (Red Team) para entender o atacante e blindar o que importa.
+🏥 **No Trabalho** — Suporte e infraestrutura hospitalar. O caos não pode se instaurar quando a tecnologia é necessária para salvar vidas.
 
-🎮 **No tempo livre** — o controle assume o comando: [gamer](https://steamcommunity.com/id/allancrisanto/) de carteirinha e [maratonista](https://app.tvtime.com/user/1788620) inveterado de animes e séries.
+🎓 **Na Especialização** — Com o diploma de ADS em mãos, agora o mergulho é na pós-graduação da FIAP focada em táticas de invasão (Red Team). A melhor forma de blindar um sistema é saber exatamente como derrubá-lo.
+
+🎮 **No modo Offline** — O terminal descansa e a conta da [Steam](https://steamcommunity.com/id/allancrisanto/) entra em cena. Quando não estou jogando no PC, me desconecto para ler uma boa história ou zerar a minha [lista](https://app.tvtime.com/user/1788620) acumulada de séries e animes.
+
 
 ---
 
@@ -76,8 +79,8 @@ allan@redteam:~$ cat foco_atual.txt
 
 [+] Aprofundando em testes de invasão e técnicas ofensivas (Red Team)
 [+] Transformando vulnerabilidades em estratégias de defesa
-[+] Automatizando tarefas e construindo projetos pessoais em Python
-[+] Explorando o ecossistema mobile e a segurança de aplicações
+[+] Automatizando o caos diário com scripts em Python
+[+] Impedindo o gato de deitar no teclado durante os deploys
 
 allan@redteam:~$ _
 ```
@@ -106,15 +109,6 @@ allan@redteam:~$ _
 
 ---
 
-## 🎲 Meu Ecossistema Pessoal
-
-Além dos scripts (Python é meu xodó ❤️), o que me move no dia a dia:
-
-* 🕹️ **Mundo dos Games** — mergulho fundo em universos virtuais, testando setups e explorando novos mundos.
-* 📺 **Maratonas Épicas** — devorador de animes e séries; se tem uma boa história, eu estou assistindo.
-* 📱 **Tech Samsung** — fã confesso e usuário do ecossistema Galaxy. `#TeamGalaxy`
-
----
 
 ## 📊 Minhas Conquistas no GitHub
 
