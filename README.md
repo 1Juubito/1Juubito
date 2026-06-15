@@ -131,7 +131,7 @@ Além dos scripts (Python é meu xodó ❤️), o que me move no dia a dia:
 
 <br/>
 
-<!-- A cobrinha só aparece DEPOIS que a Action "snake.yml" rodar pela primeira vez (ela cria a branch "output"). -->
+
 ![Cobrinha comendo as contribuições](https://raw.githubusercontent.com/1Juubito/1Juubito/output/snake.svg)
 
 </div>
