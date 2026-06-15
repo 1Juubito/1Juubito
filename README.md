@@ -43,10 +43,6 @@ class Allan:
 
 ## 🛠️ Minhas Ferramentas de Batalha
 
-<table>
-<tr>
-<td valign="top" width="50%">
-
 **Linguagens & Frameworks**
 
 [![Linguagens](https://skillicons.dev/icons?i=py,java,kotlin,js,html,css,nodejs,spring,jquery&theme=dark)](https://skillicons.dev)
@@ -54,9 +50,6 @@ class Allan:
 **Banco de Dados**
 
 [![Banco de Dados](https://skillicons.dev/icons?i=mysql,mongodb,dynamodb&theme=dark)](https://skillicons.dev)
-
-</td>
-<td valign="top" width="50%">
 
 **DevOps, Segurança & Sistemas**
 
