@@ -1,10 +1,9 @@
 <div align="center">
 
 
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=FF0000&center=true&vCenter=true&width=650&lines=Ol%C3%A1!+Eu+sou+o+Allan+%F0%9F%91%8B;Graduado+em+ADS+%7C+Red+Team+em+forma%C3%A7%C3%A3o)](https://git.io/typing-svg)
 
-<samp>git push de dia, nmap -sV de madrugada · da programação à cibersegurança ofensiva..</samp>
+<samp>git push de dia, nmap -sV de madrugada · da programação à cibersegurança ofensiva.</samp>
 
 <br/>
 
@@ -129,6 +128,11 @@ Além dos scripts (Python é meu xodó ❤️), o que me move no dia a dia:
 [![Gráfico de Atividade](https://github-readme-activity-graph.vercel.app/graph?username=1Juubito&bg_color=0D1117&color=00FF9C&line=00FF9C&point=FFFFFF&area=true&area_color=00FF9C&hide_border=true&custom_title=Gr%C3%A1fico%20de%20Atividade)](https://github.com/1Juubito)
 
 [![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=1Juubito&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br/>
+
+<!-- A cobrinha só aparece DEPOIS que a Action "snake.yml" rodar pela primeira vez (ela cria a branch "output"). -->
+![Cobrinha comendo as contribuições](https://raw.githubusercontent.com/1Juubito/1Juubito/output/snake.svg)
 
 </div>
 
