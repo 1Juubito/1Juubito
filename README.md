@@ -82,12 +82,7 @@ allan@redteam:~$ _
 
 ## 💡 Projetos em Destaque
 
-<div align="center">
 
-[![Raízes do Nordeste](https://github-readme-stats.vercel.app/api/pin/?username=1Juubito&repo=Projeto-RaizesDoNordeste&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=C9D1D9)](https://github.com/1Juubito/Projeto-RaizesDoNordeste)
-[![App Controle Financeiro](https://github-readme-stats.vercel.app/api/pin/?username=1Juubito&repo=App-ControleFinanceiro&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=C9D1D9)](https://github.com/1Juubito/App-ControleFinanceiro)
-
-</div>
 
 ---
 
