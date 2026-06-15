@@ -120,9 +120,8 @@ Além dos scripts (Python é meu xodó ❤️), o que me move no dia a dia:
 
 <div align="center">
 
-    
-[![Estatísticas do GitHub do Allan](https://github-readme-stats.vercel.app/api?username=1Juubito&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=C9D1D9)](https://github.com/1Juubito)
 [![Sequência de Commits](https://streak-stats.demolab.com?user=1Juubito&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&sideLabels=C9D1D9&dates=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9)](https://github.com/1Juubito)
+[![Estatísticas do GitHub do Allan](https://github-readme-stats.vercel.app/api?username=1Juubito&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=C9D1D9)](https://github.com/1Juubito)
 [![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=1Juubito&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=C9D1D9)](https://github.com/1Juubito)
 
 
