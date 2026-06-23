@@ -21,7 +21,7 @@ Sou o **Allan** — desenvolvedor e pós-graduando em cibersegurança. Vivo no e
 class Allan:
     def __init__(self):
         self.cargo     = "Técnico de TI · Infraestrutura Hospitalar"
-        self.formacao  = "Graduado em ADS (Uninter)"
+        self.formacao  = "Graduado em Análise e Desenvolvimento de Sistemas (Uninter)"
         self.foco      = "Pós em Cibersegurança Ofensiva — Red Team (FIAP)"
         self.arsenal   = ["VSCode", "Kali Linux", "Python", "Metasploit", "Nmap", "Wireshark"]
         self.setup     = "Ryzen 7 7800X3D + RTX 5070 (para rodar nmap, claro)"
