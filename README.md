@@ -9,6 +9,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=1Juubito&label=Visitas+no+perfil&color=00FF9C&style=flat-square)
 
+[💀](https://guns.lol/juubito.py)
+
 </div>
 
 ---
