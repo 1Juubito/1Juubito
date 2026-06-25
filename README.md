@@ -1,146 +1,173 @@
 <div align="center">
 
+```
+████████████████████████████████████████████████████████████████
+█                                                              █
+█   *** KERNEL PANIC — NOT SYNCING ***                        █
+█   Fatal exception in process: comfort_zone                  █
+█                                                              █
+█   Killed by: ALLAN CRISANTO                                 █
+█   Restarting with: red_team_mindset.sh                      █
+█                                                              █
+████████████████████████████████████████████████████████████████
+```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=FF0000&center=true&vCenter=true&width=650&lines=Ol%C3%A1!+Eu+sou+o+Allan+%F0%9F%91%8B;Graduado+em+ADS+%7C+Red+Team+em+forma%C3%A7%C3%A3o)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=3000&pause=1500&color=FF0000&center=true&vCenter=true&width=680&lines=SISTEMA+REINICIADO+%3A%3A+ALLAN+CRISANTO;ADS+%7C+Red+Team+em+formação+%7C)](https://git.io/typing-svg)
 
-<samp><kbd>git push</kbd> de dia, <kbd>nmap -sV</kbd> de madrugada  · da programação à cibersegurança ofensiva.</samp>
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=1Juubito&label=Visitas+no+perfil&color=00FF9C&style=flat-square)
-
-[💀](https://guns.lol/juubito.py)
+![](https://komarev.com/ghpvc/?username=1Juubito&label=acessos&color=CC0000&style=flat-square)
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre Mim
+<div align="center">
 
-Sou o **Allan** — desenvolvedor e pós-graduando em cibersegurança. Vivo no ecossistema onde a arquitetura de software, o Linux e as táticas de Red Team se encontram. Movido pelo desafio de fazer a tecnologia rodar com resiliência, atuo desde a sustentação de infraestruturas hospitalares até a codificação de soluções e exploração de falhas em redes.
+### ── DOSSIÊ DO OPERADOR ──
+
+</div>
+
+| CAMPO | DADO |
+|---|---|
+| **Nome** | Allan Crisanto |
+| **Função** | Técnico de TI · Infraestrutura Hospitalar |
+| **Formação** | Graduado em ADS — Uninter |
+| **Especialização** | Pós-Graduação em Cibersegurança Ofensiva · Red Team — FIAP |
+| **Status** | `ATIVO` |
+| **Doutrina** | Atacar para entender. Entender para proteger. |
+
+---
+
+### ── SUMÁRIO EXECUTIVO ──
+
+Não entrei na segurança ofensiva porque achei bonito. Entrei porque trabalho num ambiente onde um sistema fora do ar pode custar uma vida. Quando a tecnologia é infraestrutura crítica, você não pode se dar ao luxo de só defender — você precisa pensar como quem ataca.
+
+O diploma de ADS me deu a base de como sistemas são **construídos**.  
+A pós-graduação em Red Team me está ensinando como eles são **destruídos**.  
+O hospital onde trabalho me lembra todos os dias por que isso **importa**.
+
+---
+
+### ── FORMAÇÃO: ANÁLISE E DESENVOLVIMENTO DE SISTEMAS ──
 
 ```python
 class Allan:
     def __init__(self):
-        self.cargo     = "Técnico de TI · Infraestrutura Hospitalar"
-        self.formacao  = "Graduado em Análise e Desenvolvimento de Sistemas (Uninter)"
-        self.foco      = "Pós em Cibersegurança Ofensiva — Red Team (FIAP)"
-        self.arsenal   = ["VSCode", "Kali Linux", "Python", "Metasploit", "Nmap", "Wireshark"]
-        self.setup     = "Ryzen 7 7800X3D + RTX 5070 (para rodar nmap, claro)"
+        self.formacao     = "ADS · Uninter"
+        self.status       = "CONCLUÍDO"
+        self.motivacao    = "Entender o que ataco. Proteger o que importa."
 
-    def missao(self):
-        return "Estudar o ataque para construir a melhor defesa."
-```
+        self.stack = {
+            "backend"  : ["Java", "Spring Boot", "Node.js", "Python"],
+            "mobile"   : ["Kotlin", ".NET MAUI", "Flutter"],
+            "frontend" : ["JavaScript", "HTML", "CSS", "jQuery"],
+            "banco"    : ["MySQL", "MongoDB", "DynamoDB"],
+            "devops"   : ["Docker", "Git", "Azure", "Linux"],
+        }
 
-💻 **Na IDE** — Desenvolvendo projetos e criando scripts em Python. Acredito que a melhor base para a segurança é saber exatamente como o software é construído por baixo dos panos.
+        self.projetos = [
+            "App Controle Financeiro  — Flutter/Firebase + biometria + brapi.dev",
+            "App Conversor            — Java Android + Open Exchange Rates API",
+            "Projeto Game 2D          — Python + Pygame + Factory + Mediator patterns",
+            "Raízes do Nordeste       — plataforma web full-stack",
+            "Atividade Extensionista  — Landing page + Chatbot Gemini + Redis cache",
+        ]
 
-🏥 **No Trabalho** — Suporte e infraestrutura hospitalar. O caos não pode se instaurar quando a tecnologia é necessária para salvar vidas.
-
-🎓 **Na Especialização** — Com o diploma de ADS em mãos, agora o mergulho é na pós-graduação da FIAP focada em táticas de invasão (Red Team). A melhor forma de blindar um sistema é saber exatamente como derrubá-lo.
-
-🎮 **No modo Offline** — O terminal descansa e a conta da [Steam](https://steamcommunity.com/id/allancrisanto/) entra em cena. Quando não estou jogando no PC, me desconecto para ler uma boa história ou zerar a minha [lista](https://app.tvtime.com/user/1788620) acumulada de séries e animes.
-
-
----
-
-## 🛠️ Minhas Ferramentas de Batalha
-
-**Linguagens & Frameworks**
-
-[![Linguagens](https://skillicons.dev/icons?i=py,java,kotlin,js,html,css,nodejs,spring,jquery&theme=dark)](https://skillicons.dev)
-
-**Banco de Dados**
-
-[![Banco de Dados](https://skillicons.dev/icons?i=mysql,mongodb,dynamodb&theme=dark)](https://skillicons.dev)
-
-**DevOps, Segurança & Sistemas**
-
-[![DevOps e Segurança](https://skillicons.dev/icons?i=linux,kali,bash,docker,git,github&theme=dark)](https://skillicons.dev)
-
-**Ferramentas & Produtividade**
-
-[![Ferramentas](https://skillicons.dev/icons?i=vscode,androidstudio,postman,figma,notion&theme=dark)](https://skillicons.dev)
-
-</td>
-</tr>
-</table>
-
----
-
-## 🎯 Foco Atual
-
-```bash
-allan@redteam:~$ cat foco_atual.txt
-
-[+] Aprofundando em testes de invasão e técnicas ofensivas (Red Team)
-[+] Transformando vulnerabilidades em estratégias de defesa
-[+] Automatizando o caos diário com scripts em Python
-[+] Impedindo o gato de deitar no teclado durante os deploys
-
-allan@redteam:~$ _
+    def insight(self) -> str:
+        return (
+            "Dev que virou red teamer lê código-fonte durante o pentest.\n"
+            "Entende a lógica da aplicação antes de atacá-la.\n"
+            "Escreve a própria ferramenta quando as existentes não bastam."
+        )
 ```
 
 ---
 
-## 💡 Projetos em Destaque
+### ── CAPACIDADES TÉCNICAS ──
+
+**`OFENSIVA`**
+
+```
+Reconhecimento     ████████████░░  Nmap · theHarvester · OSINT passivo
+Exploração         ████████░░░░░░  Metasploit · CVEs · vsftpd · EternalBlue
+Wi-Fi Attacks      ██████████░░░░  WPA2 handshake · PMKID · Evil Twin · WPS
+Post-Exploitation  █████░░░░░░░░░  Lateral movement · hash cracking (RTX 5070)
+Web Attacks        ████░░░░░░░░░░  OWASP Top 10 · Burp Suite · SQLi
+```
+
+**`DESENVOLVIMENTO`**
+
+```
+Python             ████████████░░  Pygame · POO · Design Patterns · scripts ofensivos · automação
+Bash               ██████████░░░░  Sysadmin · pipelines · one-liners de campo
+Java / Kotlin      ████████░░░░░░  Android nativo · AsyncTask · API · Spring Boot
+JavaScript         ████████░░░░░░  Backend serverless · Gemini API · Redis · frontend · Node.js
+```
+
+**`INFRAESTRUTURA`**
+
+```
+Linux              ████████████░░  Kali · Ubuntu · administração de sistemas
+Redes              █████████░░░░░  TCP/IP · ARP · DNS · VLANs · proxy
+Cloud              ██████░░░░░░░░  Azure (lab ofensivo em construção)
+AD / SIEM          ████░░░░░░░░░░  Active Directory attacks · Microsoft Sentinel
+```
+
+---
+
+### ── OPERAÇÕES REGISTRADAS ──
+
+```
+[    0.000001] lab_environment: inicializado — ambiente isolado, sem alvos reais
+[    0.100312] wpa2_handshake_capture: OK    → hashcat + RTX 5070
+[    0.200187] pmkid_attack: OK              → hcxdumptool, sem cliente
+[    0.301044] evil_twin: OK                 → Wifiphisher + captive portal
+[    0.400293] wps_bruteforce: OK            → Reaver
+[    0.501188] vsftpd_exploit: OK            → Metasploit, Metasploitable2
+[    0.600774] mitm_arp_poisoning: OK        → ettercap + Wireshark
+[    0.700341] android_service: OK           → .NET MAUI keylogger (lab)
+[    0.801209] nethunter_mobile: OK          → Kali NetHunter + S23 Ultra
+
+[    0.900000] active_directory_lab: LOADING → Kerberoasting · BloodHound
+[    0.900001] azure_cloud_lab: LOADING      → Kali VM + Microsoft Sentinel
+
+[    1.000000] Sistema operacional. Aprendizado: contínuo. Saída: indefinida.
+```
+
+### ── MÉTRICAS ──
 
 <div align="center">
 
-[![Raízes do Nordeste](https://github-readme-stats.vercel.app/api/pin/?username=1Juubito&repo=Projeto-RaizesDoNordeste&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=C9D1D9&v=1)](https://github.com/1Juubito/Projeto-RaizesDoNordeste)
-[![App Controle Financeiro](https://github-readme-stats.vercel.app/api/pin/?username=1Juubito&repo=App-ControleFinanceiro&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=C9D1D9&v=1)](https://github.com/1Juubito/App-ControleFinanceiro)
+[![Streak](https://streak-stats.demolab.com?user=1Juubito&hide_border=true&background=0D0D0D&ring=CC0000&fire=CC0000&currStreakLabel=CC0000&sideLabels=AAAAAA&dates=AAAAAA&currStreakNum=EEEEEE&sideNums=EEEEEE)](https://github.com/1Juubito)
+
+[![Stats](https://github-readme-stats.vercel.app/api?username=1Juubito&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0D0D&title_color=CC0000&icon_color=CC0000&text_color=AAAAAA)](https://github.com/1Juubito)
+
+[![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1Juubito&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=CC0000&text_color=AAAAAA)](https://github.com/1Juubito)
+
+![Snake](https://raw.githubusercontent.com/1Juubito/1Juubito/output/snake.svg)
 
 </div>
 
 ---
 
-## 🏥 Jornada Profissional
-
-### Técnico de TI · Infraestrutura Hospitalar
-`05/2023 — Atualmente`
-
-* ⚡ Suporte e manutenção da infraestrutura de TI em ambiente de saúde, sempre com agilidade e sob pressão.
-* 🔧 Implantação e configuração de sistemas e redes, otimizando o fluxo de atendimento.
-* 🛡️ Resolução de incidentes críticos de hardware e software, garantindo continuidade operacional e segurança.
-
----
-
-
-## 📊 Minhas Conquistas no GitHub
+### ── CANAIS DE CONTATO ──
 
 <div align="center">
 
-[![Sequência de Commits](https://streak-stats.demolab.com?user=1Juubito&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&sideLabels=C9D1D9&dates=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9)](https://github.com/1Juubito)
-
-[![Estatísticas do GitHub do Allan](https://github-readme-stats.vercel.app/api?username=1Juubito&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=C9D1D9)](https://github.com/1Juubito)
-
-[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=1Juubito&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=C9D1D9)](https://github.com/1Juubito)
-
-
-
-
-
-<br/>
-
-
-![Cobrinha comendo as contribuições](https://raw.githubusercontent.com/1Juubito/1Juubito/output/snake.svg)
+[![Portfólio](https://img.shields.io/badge/PORTFÓLIO-bugado.dev-CC0000?style=flat-square&logo=googlechrome&logoColor=white)](https://www.bugado.dev/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-allan--crisanto-CC0000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allan-crisanto-908663305/)
+[![GitHub](https://img.shields.io/badge/GITHUB-1Juubito-CC0000?style=flat-square&logo=github&logoColor=white)](https://github.com/1Juubito)
+[![guns.lol](https://img.shields.io/badge/PROFILE-juubito.py-CC0000?style=flat-square&logoColor=white)](https://guns.lol/juubito.py)
 
 </div>
 
 ---
 
-## 🤝 Conecte-se Comigo
-
-Bora trocar uma ideia sobre automação, testes de invasão, animes ou como a TI salva vidas!
-
 <div align="center">
 
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-00FF9C?style=for-the-badge&logo=googlechrome&logoColor=black)](https://www.bugado.dev/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allan-crisanto-908663305/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/1Juubito)
-
+```
+[  999.999999] process[comfort_zone] killed — signal 9
+[  999.999999] Restarting: red_team_mindset.sh
+[  999.999999] System: BACK ONLINE ▌
+```
 
 </div>
-
----
-
-<p align="center">Coded with 💖 by Allan, debugged by a fluffy cat... probably. 😉🐈‍⬛</p>
