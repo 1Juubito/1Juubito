@@ -49,7 +49,7 @@ O hospital onde trabalho me lembra todos os dias por que isso **importa**.
  
 ### ── O QUE APRENDI ──
  
-A graduação em ADS pela Uninter não foi só teoria — foi onde eu aprendi a pensar como desenvolvedor. Arquitetura de software, banco de dados, APIs, mobile, web. Entender como sistemas são construídos por dentro é o que separa um pentester mediano de um que realmente sabe o que está explorando.
+A graduação em ADS pela Uninter não foi só teoria — foi onde eu aprendi a pensar como desenvolvedor. Arquitetura de software, banco de dados, APIs, mobile, web. Ainda estou no começo dessa jornada ofensiva — mas chego nela sabendo o que está do outro lado da tela.
 
 ---
 
