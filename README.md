@@ -154,10 +154,10 @@ AD / SIEM          ████░░░░░░░░░░  Active Directory 
 <div align="center">
 
 [![Portfólio](https://img.shields.io/badge/PORTFÓLIO-bugado.dev-CC0000?style=flat-square&logo=googlechrome&logoColor=white)](https://www.bugado.dev/)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-allan--crisanto-CC0000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allan-crisanto-908663305/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-allan--crisanto-CC0000?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+TGlua2VkSW48L3RpdGxlPjxwYXRoIGZpbGw9IndoaXRlIiBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNhMi4wNjIgMi4wNjIgMCAwIDEtMi4wNjMtMi4wNjUgMi4wNjQgMi4wNjQgMCAxIDEgMi4wNjMgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzJDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzIgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg==&logoColor=white)](https://www.linkedin.com/in/allan-crisanto-908663305/)
 [![GitHub](https://img.shields.io/badge/GITHUB-1Juubito-CC0000?style=flat-square&logo=github&logoColor=white)](https://github.com/1Juubito)
-[![guns.lol](https://img.shields.io/badge/PROFILE-juubito.py-CC0000?style=flat-square&logoColor=white)](https://guns.lol/juubito.py)
-
+[![guns.lol](https://img.shields.io/badge/PROFILE-juubito.py-CC0000?style=flat-square&logo=ghost&logoColor=white)](https://guns.lol/juubito.py)
+ 
 </div>
 
 ---
