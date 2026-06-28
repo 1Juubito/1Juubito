@@ -80,8 +80,8 @@ class Allan:
 
     def insight(self) -> str:
         return (
-            "Dev que virou red teamer lê código-fonte durante o pentest.\n"
-            "Entende a lógica da aplicação antes de atacá-la.\n"
+            "Dev que virou red teamer lê código-fonte durante o pentest."
+            "Entende a lógica da aplicação antes de atacá-la."
             "Escreve a própria ferramenta quando as existentes não bastam."
         )
 ```
