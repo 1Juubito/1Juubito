@@ -22,7 +22,7 @@
 
 <div align="center">
 
-### ── DOSSIÊ DO OPERADOR ──
+`allan@redteam:~$ whoami`
 
 </div>
 
@@ -32,12 +32,15 @@
 | **Função** | Técnico de TI · Infraestrutura Hospitalar |
 | **Formação** | Graduado em ADS — Uninter |
 | **Especialização** | Pós-Graduação em Cibersegurança Ofensiva · Red Team — FIAP |
-| **Status** | `ATIVO` |
 | **Doutrina** | Atacar para entender. Entender para proteger. |
 
 ---
 
-### ── POR QUE ESTOU AQUI ──
+<div align="center">
+
+`allan@redteam:~$ man allan`
+
+</div>
  
 Não entrei na segurança ofensiva porque achei bonito. Entrei porque trabalho num ambiente onde um sistema fora do ar pode custar uma vida. Quando a tecnologia é infraestrutura crítica, você não pode se dar ao luxo de só defender — você precisa pensar como quem ataca.
  
@@ -47,13 +50,21 @@ O hospital onde trabalho me lembra todos os dias por que isso **importa**.
  
 ---
  
-### ── O QUE APRENDI ──
+<div align="center">
+
+`allan@redteam:~$ cat lessons_learned.log`
+
+</div>
  
 A graduação em ADS pela Uninter não foi só teoria — foi onde eu aprendi a pensar como desenvolvedor. Arquitetura de software, banco de dados, APIs, mobile, web. Ainda estou no começo dessa jornada ofensiva — mas chego nela sabendo o que está do outro lado da tela.
 
 ---
 
-### ── FORMAÇÃO: ANÁLISE E DESENVOLVIMENTO DE SISTEMAS ──
+<div align="center">
+
+`allan@redteam:~$ dpkg -l | grep formacao`
+
+</div>
 
 ```python
 class Allan:
@@ -88,7 +99,11 @@ class Allan:
 
 ---
 
-### ── CAPACIDADES TÉCNICAS ──
+<div align="center">
+
+`allan@redteam:~$ ls -la /skills`
+
+</div>
 
 **`OFENSIVA`**
 
@@ -120,7 +135,11 @@ AD / SIEM          ████░░░░░░░░░░  Active Directory 
 
 ---
 
-### ── OPERAÇÕES REGISTRADAS ──
+<div align="center">
+
+`allan@redteam:~$ history | tail -f operations.log`
+
+</div>
 
 ```
 [    0.000001] lab_environment: inicializado — ambiente isolado, sem alvos reais
@@ -139,7 +158,11 @@ AD / SIEM          ████░░░░░░░░░░  Active Directory 
 [    1.000000] Sistema operacional. Aprendizado: contínuo. Saída: indefinida.
 ```
 
-### ── MÉTRICAS ──
+<div align="center">
+
+`allan@redteam:~$ top --stats`
+
+</div>
 
 <div align="center">
 
@@ -155,7 +178,11 @@ AD / SIEM          ████░░░░░░░░░░  Active Directory 
 
 ---
 
-### ── CANAIS DE CONTATO ──
+<div align="center">
+
+`allan@redteam:~$ netstat -an | grep CONTACT`
+
+</div>
 
 <div align="center">
 
@@ -171,6 +198,7 @@ AD / SIEM          ████░░░░░░░░░░  Active Directory 
 <div align="center">
 
 ```
+allan@redteam:~$ exit 0
 [  999.999999] process[comfort_zone] killed — signal 9
 [  999.999999] Restarting: red_team_mindset.sh
 [  999.999999] System: BACK ONLINE ▌
