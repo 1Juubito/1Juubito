@@ -56,7 +56,7 @@ O hospital onde trabalho me lembra todos os dias por que isso **importa**.
 
 </div>
  
-A graduação em ADS pela Uninter não foi só teoria — foi onde eu aprendi a pensar como desenvolvedor. Arquitetura de software, banco de dados, APIs, mobile, web. Ainda estou no começo dessa jornada ofensiva — mas chego nela sabendo o que está do outro lado da tela.
+A graduação em ADS pela Uninter não foi só teoria — foi onde eu aprendi a pensar como desenvolvedor. Arquitetura de software, banco de dados, APIs, mobile, web. Hoje já não estou mais só começando na ofensiva — tenho laboratórios rodando, CTFs resolvidos e ferramentas próprias em construção. E chego nela sabendo o que está do outro lado da tela.
 
 ---
 
@@ -108,11 +108,15 @@ class Allan:
 **`OFENSIVA`**
 
 ```
-Reconhecimento     ████████████░░  Nmap · theHarvester · OSINT passivo
-Exploração         ████████░░░░░░  Metasploit · CVEs · vsftpd · EternalBlue
-Wi-Fi Attacks      ██████████░░░░  WPA2 handshake · PMKID · Evil Twin · WPS
-Post-Exploitation  █████░░░░░░░░░  Lateral movement · hash cracking (RTX 5070)
+Reconhecimento     ██████████████  Nmap · theHarvester · Maltego · Sherlock · Recon-ng · holehe
+Exploração         █████████░░░░░  Metasploit · CVEs · vsftpd · EternalBlue
+Wi-Fi Attacks      ████████████░░  WPA2 handshake · PMKID · Evil Twin · WPS · monitor mode
+Bluetooth Attacks  ██████░░░░░░░░  BTLEJack · BLE LL_TERMINATE_IND injection
+Post-Exploitation  ███████░░░░░░░  Lateral movement · hash cracking (RTX 5070) · evasão de malware
+Mobile Pentesting  ████████░░░░░░  Kali NetHunter Rootless · Frida · bettercap (ARP spoofing)
+MITM               ██████████░░░░  ettercap · mitmproxy · ARP poisoning
 Web Attacks        ████░░░░░░░░░░  OWASP Top 10 · Burp Suite · SQLi
+CTF                █████████░░░░░  Esteganografia · forense de rede · encoding chains · log analysis
 ```
 
 **`DESENVOLVIMENTO`**
@@ -127,10 +131,10 @@ JavaScript         ████████░░░░░░  Backend serverles
 **`INFRAESTRUTURA`**
 
 ```
-Linux              ████████████░░  Kali · Ubuntu · administração de sistemas
-Redes              █████████░░░░░  TCP/IP · ARP · DNS · VLANs · proxy
+Linux              ████████████░░  Kali · Ubuntu · administração de sistemas · permissões · shell scripting
+Redes              ██████████░░░░  TCP/IP · ARP · DNS · DHCP · VLANs · proxy · Wireshark
 Cloud              ██████░░░░░░░░  Azure (lab ofensivo em construção)
-AD / SIEM          ████░░░░░░░░░░  Active Directory attacks · Microsoft Sentinel
+AD / SIEM          █████░░░░░░░░░  Active Directory attacks (Kerberoasting · BloodHound) · Microsoft Sentinel
 ```
 
 ---
@@ -150,10 +154,16 @@ AD / SIEM          ████░░░░░░░░░░  Active Directory 
 [    0.501188] vsftpd_exploit: OK            → Metasploit, Metasploitable2
 [    0.600774] mitm_arp_poisoning: OK        → ettercap + Wireshark
 [    0.700341] android_service: OK           → .NET MAUI keylogger (lab)
-[    0.801209] nethunter_mobile: OK          → Kali NetHunter + S23 Ultra
+[    0.801209] nethunter_mobile: OK          → Kali NetHunter Rootless + Frida (S23 Ultra)
+[    0.850123] arp_spoof_mobile: OK          → bettercap via NetHunter, rede própria
+[    0.900001] bluetooth_disconnect: OK      → BTLEJack, BLE LL_TERMINATE_IND
+[    0.920044] mitm_mitmproxy: OK            → labs de interceptação
+[    0.940017] osint_recon: OK               → holehe, Maltego, theHarvester, Sherlock, Recon-ng
+[    0.960552] ctf_challenges: OK            → esteganografia, forense, encoding, logs (PosTech)
+[    0.980391] malware_evasion: LOADING      → técnicas de evasão em estudo
 
-[    0.900000] active_directory_lab: LOADING → Kerberoasting · BloodHound
-[    0.900001] azure_cloud_lab: LOADING      → Kali VM + Microsoft Sentinel
+[    0.999000] active_directory_lab: LOADING → Kerberoasting · BloodHound
+[    0.999501] azure_cloud_lab: LOADING      → Kali VM + Microsoft Sentinel
 
 [    1.000000] Sistema operacional. Aprendizado: contínuo. Saída: indefinida.
 ```
