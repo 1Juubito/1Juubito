@@ -112,7 +112,8 @@ Reconhecimento     ██████████████  Nmap · theHarves
 Exploração         █████████░░░░░  Metasploit · CVEs · vsftpd · EternalBlue
 Wi-Fi Attacks      ████████████░░  WPA2 handshake · PMKID · Evil Twin · WPS · monitor mode
 Bluetooth Attacks  ██████░░░░░░░░  BTLEJack · BLE LL_TERMINATE_IND injection
-Post-Exploitation  ███████░░░░░░░  Lateral movement · hash cracking (RTX 5070) · evasão de malware
+Post-Exploitation  █████████░░░░░  RAT (Windows VM · Oracle Cloud) · lateral movement · hash cracking (RTX 5070) · evasão de malware
+Malware / C2       ███████░░░░░░░  RAT (lab, Windows VM/Oracle Cloud) · .NET MAUI keylogger
 Mobile Pentesting  ████████░░░░░░  Kali NetHunter Rootless · Frida · bettercap (ARP spoofing)
 MITM               ██████████░░░░  ettercap · mitmproxy · ARP poisoning
 Web Attacks        ████░░░░░░░░░░  OWASP Top 10 · Burp Suite · SQLi
@@ -154,6 +155,7 @@ AD / SIEM          █████░░░░░░░░░  Active Directory 
 [    0.501188] vsftpd_exploit: OK            → Metasploit, Metasploitable2
 [    0.600774] mitm_arp_poisoning: OK        → ettercap + Wireshark
 [    0.700341] android_service: OK           → .NET MAUI keylogger (lab)
+[    0.750098] rat_deployment: OK            → Windows VM (Oracle Cloud), lab isolado
 [    0.801209] nethunter_mobile: OK          → Kali NetHunter Rootless + Frida (S23 Ultra)
 [    0.850123] arp_spoof_mobile: OK          → bettercap via NetHunter, rede própria
 [    0.900001] bluetooth_disconnect: OK      → BTLEJack, BLE LL_TERMINATE_IND
