@@ -180,9 +180,9 @@ AD / SIEM          █████░░░░░░░░░  Active Directory 
 
 [![Streak](https://streak-stats.demolab.com?user=1Juubito&hide_border=true&background=0D0D0D&ring=CC0000&fire=CC0000&currStreakLabel=CC0000&sideLabels=AAAAAA&dates=AAAAAA&currStreakNum=EEEEEE&sideNums=EEEEEE)](https://github.com/1Juubito)
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=1Juubito&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0D0D&title_color=CC0000&icon_color=CC0000&text_color=AAAAAA)](https://github.com/1Juubito)
+[![Stats](https://raw.githubusercontent.com/1Juubito/1Juubito/main/profile/stats.svg)](https://github.com/1Juubito)
 
-[![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1Juubito&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=CC0000&text_color=AAAAAA)](https://github.com/1Juubito)
+[![Langs](https://raw.githubusercontent.com/1Juubito/1Juubito/main/profile/top-langs.svg)](https://github.com/1Juubito)
 
 ![Snake](https://raw.githubusercontent.com/1Juubito/1Juubito/output/snake.svg)
 
