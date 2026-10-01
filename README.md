@@ -56,7 +56,7 @@ O hospital onde trabalho me lembra todos os dias por que isso **importa**.
 
 </div>
  
-A graduação em ADS pela Uninter não foi só teoria — foi onde eu aprendi a pensar como desenvolvedor. Arquitetura de software, banco de dados, APIs, mobile, web. Hoje já não estou mais só começando na ofensiva — tenho laboratórios rodando, CTFs resolvidos e ferramentas próprias em construção. E chego nela sabendo o que está do outro lado da tela.
+A graduação em ADS pela Uninter não foi só teoria — foi onde eu aprendi a pensar como desenvolvedor. Arquitetura de software, banco de dados, APIs, mobile, web. Hoje já não estou mais só começando na ofensiva — tenho laboratórios rodando, **19 CTFs resolvidos e documentados** cobrindo rede, web, forense, OSINT, estego e cripto — do recon ao movimento lateral em Windows — e ferramentas próprias em construção. E chego nela sabendo o que está do outro lado da tela.
 
 ---
 
@@ -108,23 +108,27 @@ class Allan:
 **`OFENSIVA`**
 
 ```
-Reconhecimento     ██████████████  Nmap · theHarvester · Maltego · Sherlock · Recon-ng · holehe
-Exploração         █████████░░░░░  Metasploit · CVEs · vsftpd · EternalBlue
-Wi-Fi Attacks      ████████████░░  WPA2 handshake · PMKID · Evil Twin · WPS · monitor mode
-Bluetooth Attacks  ██████░░░░░░░░  BTLEJack · BLE LL_TERMINATE_IND injection
-Post-Exploitation  █████████░░░░░  RAT (Windows VM · Oracle Cloud) · lateral movement · hash cracking (RTX 5070) · evasão de malware
-Malware / C2       ███████░░░░░░░  RAT (lab, Windows VM/Oracle Cloud) · .NET MAUI keylogger
-Mobile Pentesting  ████████░░░░░░  Kali NetHunter Rootless · Frida · bettercap (ARP spoofing)
-MITM               ██████████░░░░  ettercap · mitmproxy · ARP poisoning
-Web Attacks        ████░░░░░░░░░░  OWASP Top 10 · Burp Suite · SQLi
-CTF                █████████░░░░░  Esteganografia · forense de rede · encoding chains · log analysis
+Reconhecimento      ██████████████  Nmap · gobuster · ffuf · feroxbuster · nikto · snmpwalk · searchsploit
+Exploração          ███████████░░░  Metasploit · CVEs (ex: CVE-2019-16278) · vsftpd · NFS exports · LFI · webshell · MySQL INTO OUTFILE
+Web Attacks         █████████░░░░░  OWASP Top 10 · Burp Suite · SQLi + sqlmap · LFI · blind oracle · upload RCE
+Priv. Escalation    ████████░░░░░░  sudoers misconfig · /etc/passwd writable · cron world-writable · sudo GTFOBins
+Pivoting / Lateral  ███████░░░░░░░  Chisel (SOCKS reverso) · Proxychains · Pass-the-Hash · crackmapexec · wmiexec
+Password Cracking   ██████████░░░░  hashcat (RTX 5070) · John the Ripper (SHA-512crypt) · Hydra · CeWL · pdf2john
+Forense de Rede     ██████████░░░░  Wireshark · tshark · tcpdump · foremost · file carving · Follow TCP Stream
+Cripto / Stego      ████████░░░░░░  LSB · Base32/64 chains · Morse · strings · esteganografia
+OSINT               ██████████░░░░  theHarvester · Maltego · Sherlock · holehe · HaveIBeenPwned · IntelX · breach dumps
+Wi-Fi Attacks       ████████████░░  WPA2 handshake · PMKID · Evil Twin · WPS · monitor mode
+Bluetooth Attacks   ██████░░░░░░░░  BTLEJack · BLE LL_TERMINATE_IND injection
+Malware / C2        ███████░░░░░░░  RAT (lab, Windows VM/Oracle Cloud) · .NET MAUI keylogger · evasão em estudo
+Mobile Pentesting   ████████░░░░░░  Kali NetHunter Rootless · Frida · bettercap (ARP spoofing)
+MITM                ██████████░░░░  ettercap · mitmproxy · ARP poisoning
 ```
 
 **`DESENVOLVIMENTO`**
 
 ```
-Python             ████████████░░  Pygame · POO · Design Patterns · scripts ofensivos · automação
-Bash               ██████████░░░░  Sysadmin · pipelines · one-liners de campo
+Python             ████████████░░  Pygame · POO · Design Patterns · scripts ofensivos · paramiko/requests · automação
+Bash               ██████████░░░░  Sysadmin · pipelines · grep/awk/sed · one-liners de campo
 Java / Kotlin      ████████░░░░░░  Android nativo · AsyncTask · API · Spring Boot
 JavaScript         ████████░░░░░░  Backend serverless · Gemini API · Redis · frontend · Node.js
 ```
@@ -133,9 +137,53 @@ JavaScript         ████████░░░░░░  Backend serverles
 
 ```
 Linux              ████████████░░  Kali · Ubuntu · administração de sistemas · permissões · shell scripting
-Redes              ██████████░░░░  TCP/IP · ARP · DNS · DHCP · VLANs · proxy · Wireshark
+Redes              ██████████░░░░  TCP/IP · ARP · DNS · DHCP · VLANs · NFS · proxy · pivoting · Wireshark
 Cloud              ██████░░░░░░░░  Azure (lab ofensivo em construção)
 AD / SIEM          █████░░░░░░░░░  Active Directory attacks (Kerberoasting · BloodHound) · Microsoft Sentinel
+```
+
+---
+
+<div align="center">
+
+`allan@redteam:~$ cat ~/writeups/ctf_scoreboard.log`
+
+</div>
+
+```
+┌─ CTF SCOREBOARD ───────────────────────────────────────┐
+│                                                         │
+│   TOTAL RESOLVIDOS : 19          FLAGS CAPTURADAS : all │
+│                                                         │
+│   Rede      ██████  6     Web       ███     3           │
+│   Forense   ███     3     OSINT     ███     3           │
+│   Stego     ██      2     Cripto    ██      2           │
+│                                                         │
+│   Fácil 5  ·  Médio 10  ·  Difícil 4                    │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+
+[rede ] Challenge Pro Fase 2 · MZ    → pivoting Windows · Chisel SOCKS · Pass-the-Hash · MySQL INTO OUTFILE
+[web  ] Berlim · FIAP PosTech        → WebUtler RCE · upload irrestrito · cron + sudo less privesc
+[osint] Vazamento                    → IntelX · dump raw Exploit.in · credential reuse
+[osint] Cyber Detective              → pivot via LinkedIn · geoint corporativo
+[rede ] Pentest Black Box · MZ       → NFS 777 · webshell .phtml · sudoers privesc
+[web  ] César · Planet of the Apes   → 7 flags · SQLi/sqlmap · CVE-2019-16278 · Hydra
+[web  ] DeathStar · Star Wars        → CeWL + Hydra · LFI /etc/shadow · John the Ripper
+[rede ] Exfiltração via TCP          → pcap carving · magic bytes · pdf2john → hashcat
+[forns] Rootkit via HTTP             → tshark · foremost · PNG carving por assinatura
+[rede ] Falando na Rede              → tcpdump -A · payload em texto puro · Base64
+[rede ] Seria um Ataque DoS?         → log Apache · ranking de IP via awk/sort/uniq
+[forns] Ataque no dia de Natal       → análise de User-Agent · malware Jorgee
+[forns] O Poder do Shell             → forense com regex · grep -E / awk substr()
+[crpto] Base do Problema             → Base64 em múltiplas camadas
+[osint] Scanner                      → recon de release de ferramenta legada
+[stego] Trade                        → LSB canal vermelho → Base32 → Morse
+[stego] Mensagem escondida           → strings direto no binário do PNG
+[rede ] Que feio, passando cola?!    → Wireshark · Follow TCP Stream
+[crpto] Batatas Fritas               → decode de French Sign Language (LSF)
+
+# writeups completos (metodologia + lições) documentados em Notion privado
 ```
 
 ---
@@ -160,10 +208,10 @@ AD / SIEM          █████░░░░░░░░░  Active Directory 
 [    0.850123] arp_spoof_mobile: OK          → bettercap via NetHunter, rede própria
 [    0.900001] bluetooth_disconnect: OK      → BTLEJack, BLE LL_TERMINATE_IND
 [    0.920044] mitm_mitmproxy: OK            → labs de interceptação
-[    0.940017] osint_recon: OK               → holehe, Maltego, theHarvester, Sherlock, Recon-ng
-[    0.960552] ctf_challenges: OK            → esteganografia, forense, encoding, logs (PosTech)
-[    0.980391] malware_evasion: LOADING      → técnicas de evasão em estudo
+[    0.940017] osint_recon: OK               → holehe, Maltego, theHarvester, Sherlock, IntelX
+[    0.960552] windows_lateral_movement: OK  → Chisel + Proxychains + Pass-the-Hash (lab MZ)
 
+[    0.980391] malware_evasion: LOADING      → técnicas de evasão em estudo
 [    0.999000] active_directory_lab: LOADING → Kerberoasting · BloodHound
 [    0.999501] azure_cloud_lab: LOADING      → Kali VM + Microsoft Sentinel
 
