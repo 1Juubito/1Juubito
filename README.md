@@ -19,7 +19,7 @@
 
 `allan@kali:~$ top --stats`
 
-[![Contribuições 3D](https://raw.githubusercontent.com/1Juubito/1Juubito/main/profile-3d.yml/profile-night-green.svg)](https://github.com/1Juubito)
+[![Streak](https://raw.githubusercontent.com/1Juubito/1Juubito/main/profile/streak.svg?v=1)](https://github.com/1Juubito)
 
 [![Stats](https://raw.githubusercontent.com/1Juubito/1Juubito/main/profile/stats.svg)](https://github.com/1Juubito)
 
