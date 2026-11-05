@@ -1,0 +1,125 @@
+name: Update streak
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: streak
+  cancel-in-progress: true
+
+jobs:
+  streak:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate streak card
+        env:
+          GH_USER: ${{ github.repository_owner }}
+          GH_TOKEN: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
+        run: |
+          python3 - <<'PY'
+          import os, json, urllib.request
+          from datetime import date, timedelta
+
+          USER = os.environ["GH_USER"]
+          TOKEN = os.environ["GH_TOKEN"]
+
+          def gql(query, variables):
+              req = urllib.request.Request(
+                  "https://api.github.com/graphql",
+                  data=json.dumps({"query": query, "variables": variables}).encode(),
+                  headers={"Authorization": f"bearer {TOKEN}", "Content-Type": "application/json"},
+              )
+              with urllib.request.urlopen(req) as r:
+                  data = json.load(r)
+              if "errors" in data:
+                  raise SystemExit(data["errors"])
+              return data["data"]
+
+          today = date.today()
+          created = date.fromisoformat(
+              gql("query($u:String!){user(login:$u){createdAt}}", {"u": USER})["user"]["createdAt"][:10]
+          )
+
+          Q = """query($u:String!,$f:DateTime!,$t:DateTime!){user(login:$u){
+          contributionsCollection(from:$f,to:$t){contributionCalendar{weeks{contributionDays{date contributionCount}}}}}}"""
+
+          days = {}
+          start = created
+          while start <= today:
+              end = min(start + timedelta(days=364), today)
+              d = gql(Q, {"u": USER, "f": f"{start}T00:00:00Z", "t": f"{end}T23:59:59Z"})
+              for w in d["user"]["contributionsCollection"]["contributionCalendar"]["weeks"]:
+                  for c in w["contributionDays"]:
+                      dt = date.fromisoformat(c["date"])
+                      if start <= dt <= end:
+                          days[dt] = c["contributionCount"]
+              start = end + timedelta(days=1)
+
+          total = sum(days.values())
+          active = [d for d, c in days.items() if c > 0]
+          first = min(active) if active else today
+
+          longest, l_start, l_end = 0, None, None
+          run, run_start = 0, None
+          for dt in sorted(days):
+              if days[dt] > 0:
+                  if run == 0:
+                      run_start = dt
+                  run += 1
+                  if run > longest:
+                      longest, l_start, l_end = run, run_start, dt
+              else:
+                  run = 0
+
+          end = today if days.get(today, 0) > 0 else today - timedelta(days=1)
+          dt, cur = end, 0
+          while days.get(dt, 0) > 0:
+              cur += 1
+              dt -= timedelta(days=1)
+          c_start = dt + timedelta(days=1)
+
+          fmt = lambda d: d.strftime("%d/%m/%y")
+          rng_total = f"{fmt(first)} - {fmt(today)}"
+          rng_long = f"{fmt(l_start)} - {fmt(l_end)}" if longest else "-"
+          rng_cur = f"{fmt(c_start)} - {fmt(end)}" if cur else "-"
+
+          svg = f"""<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195">
+            <rect width="495" height="195" rx="6" fill="#0D0D0D"/>
+            <g font-family="Segoe UI, Ubuntu, sans-serif" text-anchor="middle">
+              <text x="82" y="90" font-size="32" font-weight="700" fill="#EEEEEE">{total}</text>
+              <text x="82" y="120" font-size="13" fill="#EEEEEE">Total de contribuições</text>
+              <text x="82" y="142" font-size="11" fill="#AAAAAA">{rng_total}</text>
+              <circle cx="247" cy="85" r="40" fill="none" stroke="#CC0000" stroke-width="5"/>
+              <circle cx="247" cy="45" r="15" fill="#0D0D0D"/>
+              <path transform="translate(247,45)" fill="#CC0000" d="M0,-11 C3,-6 8,-3 8,3 C8,8 4,11 0,11 C-4,11 -8,8 -8,3 C-8,0 -6,-2 -5,-4 C-4,-2 -2,-1 -1,-1 C-1,-5 -2,-8 0,-11 Z"/>
+              <text x="247" y="96" font-size="30" font-weight="700" fill="#EEEEEE">{cur}</text>
+              <text x="247" y="152" font-size="14" font-weight="700" fill="#CC0000">Streak atual</text>
+              <text x="247" y="172" font-size="11" fill="#AAAAAA">{rng_cur}</text>
+              <text x="412" y="90" font-size="32" font-weight="700" fill="#EEEEEE">{longest}</text>
+              <text x="412" y="120" font-size="13" fill="#EEEEEE">Maior streak</text>
+              <text x="412" y="142" font-size="11" fill="#AAAAAA">{rng_long}</text>
+            </g>
+          </svg>"""
+
+          os.makedirs("profile", exist_ok=True)
+          with open("profile/streak.svg", "w", encoding="utf-8") as f:
+              f.write(svg)
+          PY
+
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add profile/streak.svg
+          if ! git diff --staged --quiet; then
+            git commit -m "chore: update streak"
+            git pull --rebase
+            git push
+          fi
