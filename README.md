@@ -19,7 +19,7 @@
 
 `allan@kali:~$ top --stats`
 
-[![Streak](https://streak-stats.demolab.com?user=1Juubito&hide_border=true&background=0D0D0D&ring=CC0000&fire=CC0000&currStreakLabel=CC0000&sideLabels=AAAAAA&dates=AAAAAA&currStreakNum=EEEEEE&sideNums=EEEEEE)](https://github.com/1Juubito)
+[![Contribuições 3D](https://raw.githubusercontent.com/1Juubito/1Juubito/main/profile-3d-contrib/profile-night-rainbow.svg)](https://github.com/1Juubito)
 
 [![Stats](https://raw.githubusercontent.com/1Juubito/1Juubito/main/profile/stats.svg)](https://github.com/1Juubito)
 
